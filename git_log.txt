@@ -1,0 +1,56 @@
+commit e5632c71deef56d6a8f0821d5f3c2067b2dda37a
+Merge: 705d270 b0d39b2
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Fri Jan 30 11:00:46 2026 -0800
+
+    Merge branch 'info-fix' into main
+    
+    # Conflicts:
+    #       index.html
+
+commit b0d39b2abd531458e546ad8147a99189fafb98e0
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Fri Jan 30 10:59:00 2026 -0800
+
+    refactor: "added my favorite movie to index.html"
+
+commit 705d270c86baeef515ca2e612f4ae2ecb6ee0e56
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Fri Jan 30 10:56:44 2026 -0800
+
+    refactor: "added my favorite food to index.html"
+
+commit 7267062dbaf1e96ae86bb08e6fff7e01b290076d
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Fri Jan 30 10:51:48 2026 -0800
+
+    Add new div elements to index.html
+    
+    Added new div structures to the body of the HTML.
+
+commit ff5d3932f756039a8724f6a641e29079595e4db0
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Fri Jan 30 10:49:57 2026 -0800
+
+    Add project description to README.md
+
+commit a99548bb4709d9c48754c54500e90a07286ee30d
+Merge: 1d2bfc0 d40d21b
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Fri Jan 30 10:47:16 2026 -0800
+
+    Merge pull request #1 from igoradulyan/info-fill
+    
+    refactor: "added first,last name and hobby data to the index.html"
+
+commit d40d21bf5868b298acab73e6b9a2295365f6d230
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Fri Jan 30 10:44:09 2026 -0800
+
+    refactor: "added first,last name and hobby data to the index.html"
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
